@@ -20,23 +20,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" alt="streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" alt="langs" />
-</p>
-
----
-
-### 🐍 GitHub Contribution Snake
-
-![GitHub Snake](https://github.com/Tech-Nickkk/snk/raw/output/github-contribution-grid-snake.svg)
-
-
----
-
 ### 🔗 Connect with Me
 
 <p align="left">
